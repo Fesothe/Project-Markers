@@ -1,3 +1,10 @@
+// Project Markers Version 1
+// Created by: SteamPunk Gears
+// Date: 12-09-2023
+
+//Check for updates at: https://github.com/Furbrained/SecondLife-Scripts/tree/main/Project-Markers
+//License MIT: https://github.com/Furbrained/SecondLife-Scripts/blob/main/LICENSE.md
+
 integer  gListener;
 integer channel = -13572468;
 string owner;
