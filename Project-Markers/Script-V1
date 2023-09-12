@@ -2,8 +2,9 @@
 // Created by: Fesothe (SteamPunk Gears https://my.secondlife.com/steampunk.gears)
 // Date: 12-09-2023
 
-//Check for updates at: https://github.com/Furbrained/SecondLife-Scripts/tree/main/Project-Markers
-//License MIT: https://github.com/Furbrained/SecondLife-Scripts/blob/main/LICENSE.md
+// Check for updates at: https://github.com/Furbrained/SecondLife-Scripts/tree/main/Project-Markers
+// License MIT: https://github.com/Furbrained/SecondLife-Scripts/blob/main/LICENSE.md
+// Free 3D: https://skfb.ly/oLoCK
 
 integer  gListener;
 integer channel = -13572468;
